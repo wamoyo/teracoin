@@ -2,7 +2,7 @@
 
 A digital currency minted by the labor force
 
-Discussion here: [teracoin.foundation](http://teracoin.foundation)
+Discussion here: [teracoin.foundation](http://costamichailidis.github.io/teracoin)
 
 ## The Idea
 
